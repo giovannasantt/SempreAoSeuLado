@@ -10,6 +10,7 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 </p>
 </td>
 </table>
+<br>
 
 ## História 
 
@@ -26,10 +27,20 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 
 ### Figurantes
 <p>Os figurantes, nada mais são do que pessoas aleatórias presentes na cena com o objetivo de preencher espaço e influênciar na jogabilidade, uma vez que o player terá que desviar deles para chegar no objetivo final. Os modelos utilizados são prefabs genéricos encontrados na asset story.</p>
+<br>
 
 ## Cenário
 <p>O cenário é ambientado em uma estação de trem, com aparência rústica, assim como a utilizada na cena do filme (que tem inclusive locomotivas a vapor), iluminação com aspecto natural e claro, com cores claras e calmas (ornando com o sentido da cena, que tem como objetivo ser aconchegante ao telespectador). O modelo da estação foi encontrado na asset story e adaptado ao contexto do jogo, sendo retirados alguns elementos gráficos adicionais (algumas pilastras que não irão ser observadas na visão do jogador). </p>
+<br>
+
+## Cena
+<p></p>
+
+
 
 ## Jogabilidade
 
 <p>A fase inicia-se com uma animação de Hachi cavando para conseguir fugir de casa, dando inicio a cena retratada, após isso o player terá que controlar o cachorro Hachi, andando por toda a estação, com o objetivo de encontrar o seu dono, com isso finalizando o jogo e alcançando sua "recompensa". Porém, Hachi terá que desviar de todos os figurantes presentes na estação, dificultando assim a chegada até seu dono, afinal, os figurantes andarão para ambos os lados. Caso Hachi não consiga desviar, o player terá que recomeçar a jornada desde o inicio da fase.</p>
+
+link do arquivo - https://drive.google.com/drive/folders/1Aopy64-GdMkqRlB0Wp0ojxIy9ly1U_fj?usp=sharing
+
