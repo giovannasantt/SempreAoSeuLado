@@ -34,7 +34,7 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 <br>
 
 ## Cena
-<p></p>
+<p>A cena a ser recriada no jogo será a do segundo encontro entre Hachi e Parker na estação, onde o cachorro foge de sua casa em busca de encontrar seu dono. Primeiro será mostrada uma "cutscene" (feita em pixelart) com a cena em que Hachi cava um buraco e, a partir desse momento, o player começará a controlar o cachorro, percorrendo um caminho dentro da estação e desviando de NPCs, até ir de encontro a Parker, onde o player deixa de controlar o cachorro, chegando ao seu objetivo final e por fim aparecendo a imagem final de Hachi e Parker juntos e felizes. A paleta de cores da cena seguirá a mesma da cena original, tendo cores claras e vivas como predominantes. </p>
 
 
 
