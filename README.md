@@ -20,12 +20,20 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 ## Personagens
 
 ### Cachorro
-<p> Hachi é um dos principais protagonistas do filme e se faz presente na cena também, sendo ele o personagem que o player irá controlar. Com a grande característica de ser um ótimo companheiro e ser extremamente fiel ao seu dono, Hachi é quem da o ponto inicial para a cena. O cachorro utilizado no jogo tem a mesma aparência fisica do cachorro do filme, sendo utilizado um prefab gratuito encontrado na unity story.</p>
+![image](https://github.com/user-attachments/assets/36763142-4b40-40b6-a4c0-61d8192a0a41)
+<p> Hachi é um dos principais protagonistas do filme e se faz presente na cena também, sendo ele o personagem que o player irá controlar. Com a grande característica de ser um ótimo companheiro e ser extremamente fiel ao seu dono, Hachi é quem da o ponto inicial para a cena. O cachorro utilizado no jogo tem a mesma aparência fisica do cachorro do filme, contendo cores vivas e claras, sendo utilizado um prefab gratuito encontrado na unity story.</p>
+
 
 ### Dono
+![image](https://github.com/user-attachments/assets/733203d1-0567-48e4-9970-9709cd9e3205)
+
 <p>Parker, o dono de Hachi, é junto com o cachorro o principal protagonista da trama, sendo ele a motivação para que o cachorro fugisse de casa, dando inicio à cena. O personagem utilizado no jogo se trata de um modelo genérico (porém muito semelhante ao dono original) achado na asset story. </p>
 
 ### Figurantes
+![image](https://github.com/user-attachments/assets/f344ba70-81d0-4d25-9479-16826e665908) ![image](https://github.com/user-attachments/assets/134962ef-98ab-41b1-b4b0-27cc527fa277)
+
+
+
 <p>Os figurantes, nada mais são do que pessoas aleatórias presentes na cena com o objetivo de preencher espaço e influênciar na jogabilidade, uma vez que o player terá que desviar deles para chegar no objetivo final. Os modelos utilizados são prefabs genéricos encontrados na asset story.</p>
 <br>
 
