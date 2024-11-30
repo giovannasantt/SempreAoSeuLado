@@ -14,7 +14,7 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 
 ## História 
 
-<p>A trama do filme aborda como é importante a ligação de lealdade entre o dono e seu cachorro. Na cena retratada, se torna ainda mais possível essa interpretação, onde a cena escolhida foi a da primeira fuga de Hachi até a estação, em busca de seu dono Parker, simbolizando o companheirismo e a falta que o cachorro sentiu ao ver a ausência de seu dono e ao encontrar com o mesmo, finalizando a cena com a felicidade e surpresa do dono ao ver a demonstração de afeto genuina vinda de Hachi. 
+<p>A trama do filme aborda como é importante a ligação de lealdade entre o dono e seu cachorro. Na cena retratada, se torna ainda mais possível essa interpretação, onde a cena escolhida foi a da primeira fuga de Hachi até a estação, em busca de seu dono Parker, simbolizando o companheirismo e a falta que o cachorro sentiu ao ver a ausência de seu dono e ao encontrar com o mesmo, finalizando a cena com a felicidade e surpresa do dono ao ver a demonstração de afeto genuina vinda de Hachi. Na cena recriada, as cores predominantes são claras e saturadas, representando o conforto sentido pelos protagonistas no encontro inesperado e caloroso.
 </p>
 
 ## Personagens
@@ -27,7 +27,7 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 ### Dono
 ![image](https://github.com/user-attachments/assets/733203d1-0567-48e4-9970-9709cd9e3205)
 
-<p>Parker, o dono de Hachi, é junto com o cachorro o principal protagonista da trama, sendo ele a motivação para que o cachorro fugisse de casa, dando inicio à cena. O personagem utilizado no jogo se trata de um modelo genérico (porém muito semelhante ao dono original) achado na asset story. </p>
+<p>Parker, o dono de Hachi, é junto com o cachorro o principal protagonista da trama, sendo ele a motivação para que o cachorro fugisse de casa, dando inicio à cena. O personagem utilizado no jogo se trata de um modelo genérico (porém muito semelhante ao dono original, contendo até mesmo uma paleta de cores semelhante) achado na asset story. </p>
 
 ### Figurantes
 ![image](https://github.com/user-attachments/assets/f344ba70-81d0-4d25-9479-16826e665908) ![image](https://github.com/user-attachments/assets/134962ef-98ab-41b1-b4b0-27cc527fa277)
