@@ -51,6 +51,59 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 
 ![Captura de tela 2024-11-28 214938](https://github.com/user-attachments/assets/59f97d30-006f-4065-a4de-3e0261384104)
 ![Captura de tela 2024-11-28 214923](https://github.com/user-attachments/assets/7796cc5c-a07f-47bf-a5c2-feb9da0cd6f3)
+<br>
+
+## Códigos
+
+### Classes
+
+- Personagem
+
+![image](https://github.com/user-attachments/assets/a10bd499-f28a-4157-9d9d-71e475d3e0d4)
+
+  <p> Essa é a nossa classe mãe, responsável por carregar os atributos principais. O primeiro atributos que criamos foi velocidade (float), o valor é responsável por determinar o quão rápido os personagens irão se mover, o próximo atributo é a posição (Vector3), usamos ele para determinar onde os personagens irão aparecer inicialmente, e se caso precisarem mudar de posição durante o jogo, por fim criamos o atributo modelo (tipo gameObject), ele serve para alterar o modelo da instância durante a execução.</p>
+  <br>
+  
+- Cachorro
+
+![image](https://github.com/user-attachments/assets/a979be2b-4752-45ac-ad28-309b4a34348e)
+
+  <p>Essa classe é responsável por carregar os atributos e métodos de um cachorro. Além dos ex atributos, nós renomeamos o atributo gameObject com o nome ccachorro, e criamos um novo chamado vida (bool), ele servirá para contar se o cachorro está morto ou vivo, assim interagindo com a tela de derrota ou não, no fim também criamos uma variável pra contar quantas instâncias ocorreram, chamada InstanciasCachorro.
+</p>
+<br>
+
+- Pessoas
+
+  ![image](https://github.com/user-attachments/assets/95d4dc2e-7054-4e6d-a1c2-4fb302b8a111)
+
+<p>Essa classe também carrega os mesmos atributos da classe personagem, a única mudanças é que também renomeamos o atributo gameObject para ppessoa.</p>
+<br>
+
+### Scripts
+
+- Movimentação (anexado ao cachorro, que é o player)
+
+![image](https://github.com/user-attachments/assets/7d3df443-43e7-4023-9b99-ad6279907c06)
+![image](https://github.com/user-attachments/assets/d6e82438-4468-4589-8c5f-e4cedfdfb9d2)
+![image](https://github.com/user-attachments/assets/1db984a0-b65f-4412-a60e-9c3a5962e3d7)
+
+
+  <p>Primeiramente criamos uma variável posicao (Vector3) e uma personagem (que deriva de cachorro), no start definimos os valores iniciais de posicao e usamos o transform position para o personagem nascer na posição colocada no Vector3, além disso criamos uma instância inicial para o cachorro, definindo, transform position para a posicao, true para a vida e cachorro (variável que recebe o gameObject da cena que tem o nome Cachorro) para o gameObject e por fim a instância do modelo do cachorro, além contar quantas vezes foi instanciado e apresentar no debug.log. No update colocamos a velocidade dele na posição Z como fixa, e juntamente com o transform Translate ele se move constantemente, logo depois definimos as teclas que serviram para o seu movimento, no A ele anda para o eixo X para esquerda, no D é o eixo X para a direita, e o Espaço ele pula, se movendo no eixo Y, além de que fizemos um sistema de barreira, onde as teclas funcionam apenas se ele se mover dentro da área delimitada. No final fizemos um sistema de colisão usando um switch, se ele se colidir com um objeto com a tag pessoa, carrega a cena de derrota, mas se a colisão for com a tag dono, a cena que se carrega é a de vitória, além de destruir a si próprio e apresentar no debug.log se colidiu ou não.</p>
+  <br>
+
+- NPC (anexado as pessoas, que são nossos obstáculos)
+
+![image](https://github.com/user-attachments/assets/fa3fdf71-e389-4914-ac7f-72ea4de632f9)
+
+  <p>Esse script serve para instânciar o objeto da nossa classe, igual no script do cachorro, criamos variáveis para a posição (Vector3), gameObject, pessoa e um gerador aleatório. No start usamos o debug.log para falar falar quantas instâncias aconteram assim que o jogo inicou, já no update fizemos a instacia dos objetos e modelos, porém usamos a variável aleatório que vai de 1 a 3 (o último número não conta, então é tecnicamente de 1 a 2), se for 1, usamos a concatenação da variável com o nome pessoa para colocar o modelo 1, e se for 2, o outro modelo, além disso criamos um limite de nascimento, se o número de objetos instanciados for menor que 5, ele continuará instanciando, se for maior ele para, sendo assim essa parte converge com a do script Velocidade.</p>
+  <br>
+
+- Velocidade (também anexado as pessoas)
+
+![image](https://github.com/user-attachments/assets/2074869e-3887-443a-a1cc-3c13c4f87bbe)
+
+  <p>Criamos uma variável velocidade (Vector3) e zeramos seus valores no start, no update deixamos sua movimentação no eixo Z constante igual ao do cachorro, e criamos uma condicional, se o objeto estiver dentro do limite permitido, ele continuará se movendo, se não estiver E a instância for igual a 4, ele subtrai 1 das instâncias e destrói o objeto, assim ele deixa de existir</p>
+<br>
 
 
 
