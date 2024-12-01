@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Movimentacao : MonoBehaviour //herda do monobehaviour (executável do unity)
+public class Movimentacao : MonoBehaviour //criando o script de movimentação, que herda do monobehaviour (executável do unity)
 { Vector3 posicao; //chamando a propriedade posicao
      GameObject cachorro ; //chamando o gameobject cachorro
     Cachorro personagem; //chamando a classe cachorro
