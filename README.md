@@ -114,6 +114,11 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 <br>
 
 
+### Diagrama de Classes
+
+![image](https://github.com/user-attachments/assets/a8629ab6-0a56-4988-887f-0e3dfc17a60c)
+
+<br>
 
 link do arquivo - https://drive.google.com/drive/folders/1Aopy64-GdMkqRlB0Wp0ojxIy9ly1U_fj?usp=sharing
 
