@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Cutscene : MonoBehaviour
+public class Cutscene : MonoBehaviour //script "cutscene" herda do monobehaviour (executavel do unity)
 {
     // Start is called before the first frame update
     void Start()
@@ -14,7 +14,7 @@ public class Cutscene : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.anyKeyDown) //quando qualquer tecla for apertada, trocar· a cena
+        if (Input.anyKeyDown) //quando qualquer tecla for apertada, trocar√° a cena
         {
             SceneManager.LoadScene("Inicio");
         }
