@@ -5,7 +5,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-public class Cachorro : Personagem //classe "cachorro" herdando da classe personagem 
+public class Cachorro : Personagem //criando classe "cachorro" herdando da classe personagem 
 {
     public static int InstanciasCachorro = 0; //contando o número inicial de cachorros
 
