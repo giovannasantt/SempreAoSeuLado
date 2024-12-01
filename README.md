@@ -38,6 +38,9 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 <br>
 
 ## Cenário
+
+![image](https://github.com/user-attachments/assets/3744f2fb-c70a-4cab-9551-f16293f001b2)
+
 <p>O cenário é ambientado em uma estação de trem, com aparência rústica, assim como a utilizada na cena do filme (que tem inclusive locomotivas a vapor), iluminação com aspecto natural e claro, com cores claras e calmas (ornando com o sentido da cena, que tem como objetivo ser aconchegante ao telespectador). O modelo da estação foi encontrado na asset story e adaptado ao contexto do jogo, sendo retirados alguns elementos gráficos adicionais (algumas pilastras que não irão ser observadas na visão do jogador). </p>
 <br>
 
