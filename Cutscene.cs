@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Cutscene : MonoBehaviour //script "cutscene" herda do monobehaviour (executavel do unity)
+public class Cutscene : MonoBehaviour //criando script "cutscene" herda do monobehaviour (executavel do unity)
 {
     // Start is called before the first frame update
     void Start()
