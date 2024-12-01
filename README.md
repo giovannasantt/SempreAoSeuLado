@@ -50,7 +50,7 @@ Atividade realizada em sala de aula e continuada em casa, utilizando conheciment
 
 ## Jogabilidade
 
-https://github.com/user-attachments/assets/2f02392d-1da0-4f4c-9802-e8f9e355f726
+[![videojogo](https://github.com/user-attachments/assets/59f97d30-006f-4065-a4de-3e0261384104)](https://github.com/user-attachments/assets/2f02392d-1da0-4f4c-9802-e8f9e355f726)
 
 <p>A fase inicia-se com uma animação de Hachi cavando para conseguir fugir de casa, dando inicio a cena retratada, após isso o player terá que controlar o cachorro Hachi, andando por toda a estação, com o objetivo de encontrar o seu dono, com isso finalizando o jogo e alcançando sua "recompensa". Porém, Hachi terá que desviar de todos os figurantes presentes na estação, dificultando assim a chegada até seu dono, afinal, os figurantes andarão para ambos os lados. Caso Hachi não consiga desviar, o player terá que recomeçar a jornada desde o inicio da fase.</p>
 
