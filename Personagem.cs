@@ -8,8 +8,8 @@ public class Personagem //criando a classe Personagem
 
     public static int Instancias = 0; //contador inicial 
 
-    public float Velocidade {  get; set; } //instanciando a propriedade velocidade
-    public Vector3 Posicao { get; set; } //instanciando a propriedade posicao
+    public float Velocidade {  get; set; } //criando a propriedade velocidade
+    public Vector3 Posicao { get; set; } //criando a propriedade posicao
     public static GameObject cachorro = new GameObject(); //criando um novo gameobject para o cachorro
    
     public Personagem(float velocidade, Vector3 posicao, GameObject modelo) //constructor da classe personagem
