@@ -119,12 +119,28 @@ https://github.com/user-attachments/assets/2f02392d-1da0-4f4c-9802-e8f9e355f726
   <p>Criamos uma variável velocidade (Vector3) e zeramos seus valores no start, no update deixamos sua movimentação no eixo Z constante igual ao do cachorro, e criamos uma condicional, se o objeto estiver dentro do limite permitido, ele continuará se movendo, se não estiver E a instância for igual a 4, ele subtrai 1 das instâncias e destrói o objeto, assim ele deixa de existir</p>
 <br>
 
+- Botao
+
+  ![image](https://github.com/user-attachments/assets/4d6ef550-0eca-4f73-9896-e985378332c7)
+
+<p>Os botões tem como função auxiliar o player a transicionar de cena dinâmicamente, sendo ela: Jogar (que carrega a cena "jogo" quando acionada), Sair (que fecha o jogo ao ser acionada), Reiniciar (que reinicia a cena presente) e Voltar (que retorna a cena anterior a atual).</p>
+<br>
+
+- Cutscene 
+![image](https://github.com/user-attachments/assets/1a27a7e9-2eda-4b23-8f7c-e47668a5e70d)
+<p>O script "cutscene" tem como função fazer com que assim que quando qualquer tecla seja pressionada, o player passe para a cena seguinte. </p>
+<br>
+
 
 ### Diagrama de Classes
 
 ![image](https://github.com/user-attachments/assets/a8629ab6-0a56-4988-887f-0e3dfc17a60c)
 
 <br>
+
+## Relatório de produção
+
+<p>O aluno Guilherme Santos ficou responsável por toda a parte teórica do projeto e auxiliar no visual, assim fazendo o diagrama de classes, descrição dos scripts e cutscene (feita em pixelart). Enquanto isso, a aluna Giovanna Santana ficou responsável pela parte prática do projeto e documentação, fazendo os scripts e executando a lógica em cima do objetivo a ser alcançado, também cuidando de boa parte da escolha dos modelos do jogo (tanto 3d quanto canvas). </p>
 
 link do arquivo - https://drive.google.com/drive/folders/1Aopy64-GdMkqRlB0Wp0ojxIy9ly1U_fj?usp=sharing
 
