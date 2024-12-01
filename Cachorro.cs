@@ -5,22 +5,22 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-public class Cachorro : Personagem
+public class Cachorro : Personagem //classe "cachorro" herdando da classe personagem 
 {
-    public static int InstanciasCachorro = 0;
+    public static int InstanciasCachorro = 0; //contando o número inicial de cachorros
 
-    GameObject ccachorro;
-    float velocidade;
+    GameObject ccachorro; //chamando o gameobject cachorro
+    float velocidade; //chamando o script "velocidade"
  
 
-    public bool Vida { get; set; }
+    public bool Vida { get; set; } //instanciando a propriedade "vida"
    
 
   
-    public Cachorro(Vector3 posicao, bool vida, GameObject ccachorro)
+    public Cachorro(Vector3 posicao, bool vida, GameObject ccachorro) //constructor da classe "cachorro"
     {
-        this.Posicao = posicao;
-        this.Vida = vida;
+        this.Posicao = posicao; //validando a propriedade "posicao"
+        this.Vida = vida; //validando a propriedade "vida"
     }
 
   
