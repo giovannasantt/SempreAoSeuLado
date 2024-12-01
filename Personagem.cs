@@ -3,38 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Personagem
+public class Personagem //criando a classe Personagem
 {
 
-    public static int Instancias = 0;
+    public static int Instancias = 0; //contador inicial 
 
-    public float Velocidade {  get; set; }
-    public Vector3 Posicao { get; set; }
-    public static GameObject cachorro = new GameObject();
-    public Personagem()
+    public float Velocidade {  get; set; } //instanciando a propriedade velocidade
+    public Vector3 Posicao { get; set; } //instanciando a propriedade posicao
+    public static GameObject cachorro = new GameObject(); //criando um novo gameobject para o cachorro
+   
+    public Personagem(float velocidade, Vector3 posicao, GameObject modelo) //constructor da classe personagem
     {
-        Instancias++;
-    }
-    public Personagem(float velocidade, Vector3 posicao, GameObject modelo)
-    {
-        Instancias++;
-        this.Velocidade = velocidade;
-        this.Posicao = posicao;
+        Instancias++; //executando o contador
+        this.Velocidade = velocidade; //validando a propriedade velocidade
+        this.Posicao = posicao; //validando a propriedade posicao
     
     }
-   /* public void Ganhar(bool vida){
-        if (vida == true)
-        {
-            SceneManager.LoadScene("Final");
-        }
-
-    }
-    public void Perder(bool vida)
-    {
-       if( vida == false)
-        {
-            SceneManager.LoadScene("Inicio");
-        }
-       
-    }*/
+ 
 }
