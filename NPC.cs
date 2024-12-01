@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NPC : MonoBehaviour //herdando de monobehaviour (executável do unity) 
+public class NPC : MonoBehaviour //criando o script NPC, que herda de monobehaviour (executável do unity) 
 {
     Vector3 posicao; //chamando a propriedade posicao 
     GameObject ppessoa; //chamando o gameobjectppessoa
